@@ -13,7 +13,7 @@ form {
 }
 
 #playButton {
-  width: 90%;
+  width: 90vw;
   max-width: 500px;
   height: 10vh;
 
@@ -32,4 +32,11 @@ form {
                 transform 150ms ease;
     -webkit-appearance: none;
     -moz-appearance: none;
+}
+
+#info {
+  padding-top: 15vh;
+  text-align: center;
+  font-size: 1.2em;
+  color: rgb(255, 0, 0);
 }
